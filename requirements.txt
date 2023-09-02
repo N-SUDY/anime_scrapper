@@ -1,0 +1,4 @@
+requests
+re
+asyncio
+tqdm
